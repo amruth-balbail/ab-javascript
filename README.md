@@ -1,2 +1,2 @@
 # ab-javascript
-A repo where I practice my javascript skills
+A repo to practice my javascript skills!
